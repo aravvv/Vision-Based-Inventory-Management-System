@@ -1,0 +1,17 @@
+# Telegram Bot
+pyTelegramBotAPI
+
+# OCR
+easyocr
+
+# For handling Excel files
+pandas
+openpyxl
+
+# Image Processing
+Pillow
+opencv-python
+numpy
+
+# HTTP Requests
+requests
